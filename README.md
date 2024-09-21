@@ -31,7 +31,7 @@ To run the script, use the following command:
 The output file will contain the combined text from all the specified PDF files.
 
 ### Example Output
-The text from all the provided PDF files will be extracted and saved into *** combined_output1.txt ***.
+The text from all the provided PDF files will be extracted and saved into ´combined_output1.txt´.
 
 ### Troubleshooting
 If the output file is empty or contains no data, check whether the PDF files are scanned documents. If they are, you may need to use an OCR library (e.g., pytesseract).
